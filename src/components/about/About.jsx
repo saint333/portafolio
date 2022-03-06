@@ -24,7 +24,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className='about__icon'/>
               <h5>Experiencia</h5>
-              <small>3+ meses trabajando</small>
+              <small>4+ meses trabajando</small>
             </article>
 
             <article className="about__card">
@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse, corporis saepe maiores officia pariatur, tempore ab at soluta omnis fugit vero! Ratione, voluptas magni. Unde laboriosam mollitia corporis laborum cumque.
+            Soy un desarrollador frontend y vivo en Perú. Tengo una gran pasión por la tecnologia 
           </p>
 
           <a href="#contact" className='btn btn-primary btn__modify'>Contactar</a>

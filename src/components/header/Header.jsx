@@ -20,7 +20,7 @@ const Header = () => {
           <img src={ME} alt="foto del desarrollador" />
         </figure>
 
-        <a href="#contact" className='scroll__down'>Scroll Down</a>
+        <a href="#contact" className='scroll__down'>Ir hacia abajo</a>
         <Social />
       </div>
     </header>
