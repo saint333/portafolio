@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <p>
-            Soy un desarrollador frontend y vivo en Perú. Tengo una gran pasión por la tecnologia 
+            Soy un <strong>desarrollador frontend </strong>y vivo en Perú. Tengo una gran pasión por la tecnologia, he sido capaz de desarrollar diversas habilidades y potenciado otras, asi mismo aprender las diversas tecnologias mas demandadas por el mercado laboral, me gusta tomar diversos desafios nuevos para aprender y dar lo mejor de mi.
           </p>
 
           <a href="#contact" className='btn btn-primary btn__modify'>Contactar</a>
